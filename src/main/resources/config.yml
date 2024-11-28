@@ -1,0 +1,11 @@
+# Should DirectXP apply to breaking blocks?
+break-block: true
+
+# Should DirectXP apply to killing entities?
+entity-death: true
+
+# Should multiple sounds be played if it's calculated the amount of exp dropped would have resulted in multiple orbs?
+multi-sounds: true
+
+# How many ticks between sounds? 2 is vanilla.
+sound-delay: 2

@@ -1,0 +1,5 @@
+name: DirectXP
+version: '1.0'
+main: me.miningtcup.directXP.DirectXP
+api-version: '1.21'
+authors: [ MiningTcup ]
